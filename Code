@@ -1,3 +1,5 @@
+# Welcome to Space Invaders, here is my code for the game.
+
 import pygame
 import os
 import time
